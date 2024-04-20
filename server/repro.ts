@@ -1,0 +1,2 @@
+Effect.fail;
+//     ^? any
